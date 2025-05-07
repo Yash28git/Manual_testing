@@ -113,3 +113,48 @@ Prepare the environment where testing will be conducted:
 - Configure **databases**
 - Install required **test tools**
 - Establish and verify **network setup**
+# Principles of Software Testing
+
+Software testing follows a set of fundamental principles that help ensure effectiveness and efficiency in the testing process.
+
+---
+
+## 1. **Testing shows presence of defects**
+- Testing can reveal **bugs**, but it **cannot prove** that the software is completely **error-free**.
+- The goal is to **reduce the risk** of failures, not to prove perfection.
+
+---
+
+## 2. **Exhaustive testing is impossible**
+- Testing **everything** (all inputs, all paths) is **not feasible**, especially in large systems.
+- Instead, focus on **risk-based** and **prioritized testing**.
+
+---
+
+## 3. **Early testing saves time and money**
+- Start testing **early in the software development life cycle** (e.g., during requirement analysis).
+- Catching defects early is **cheaper** and **less time-consuming** to fix.
+
+---
+
+## 4. **Defect clustering**
+- A small number of modules often contain the **majority of defects**.
+- Focus more testing effort on **high-risk areas**.
+
+---
+
+## 5. **Pesticide paradox**
+- Running the same tests again and again will eventually find **no new bugs**.
+- Regularly **review and update** test cases to find more defects.
+
+---
+
+## 6. **Testing is context dependent**
+- Testing approach depends on the **type of application** (e.g., e-commerce site vs. safety-critical system).
+- There’s no one-size-fits-all testing strategy.
+
+---
+
+## 7. **Absence of errors fallacy**
+- A system that is **bug-free** but **doesn't meet user needs** is a **failed system**.
+- Testing must also ensure that the software is **fit for purpose**.
