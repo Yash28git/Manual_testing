@@ -75,3 +75,41 @@
 
 - **Example:**  
   The customer tests an **e-commerce application** to ensure the entire shopping process, including **payment, shipping, and order confirmation**, meets their business requirements.
+#  QA Testing Activities
+
+Quality Assurance (QA) involves a series of structured activities to ensure software quality throughout the development lifecycle. These activities focus on **preventing defects** and improving the **processes** used to create software.
+
+---
+
+## 1. Requirement Review
+
+- Understand and analyze **requirements** (what the software should do)
+- Identify any **gaps, conflicts, or unclear points**
+- Ensure requirements are **testable** and **complete**
+
+---
+
+## 2. Test Planning
+
+- Define **scope**, **approach**, **resources**, and **schedule** of testing
+- Identify **testing tools**, **team responsibilities**, and **test environments**
+- Create a **Test Plan** document
+
+---
+
+## 3. Test Case Design
+
+- Write detailed **test cases** and **test scenarios** based on requirements
+- Ensure coverage of both **functional** and **non-functional** areas
+- Create necessary **test data** for executing the tests
+
+---
+
+## 4. Test Environment Setup
+
+Prepare the environment where testing will be conducted:
+
+- Set up **servers**
+- Configure **databases**
+- Install required **test tools**
+- Establish and verify **network setup**
